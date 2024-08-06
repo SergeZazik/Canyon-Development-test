@@ -1,7 +1,7 @@
 **Estimated Time for All Tasks:**
-* Parsing input files: 1 hour
+* Parsing input files: 1,5 hour
 * Associating timestamps with GPS coordinates: 1 hours
-* Calculating centroid: 1 hour
-* Generating GeoJSON output: 1 hour
-* Writing tests: 1 hours
+* Calculating centroid: 30 min
+* Generating GeoJSON output: 30 min
+* Writing tests: 1,5 hour
 * Total: 5 hours
