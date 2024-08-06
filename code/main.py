@@ -10,7 +10,6 @@ def parse_json_file(file_path):
     try:
         with open(file_path, 'r') as file:
             data = json.load(file)
-            print(data)
         return data
     except (IOError, json.JSONDecodeError) as e:
         print(f"Error reading JSON file {file_path}: {e}")
